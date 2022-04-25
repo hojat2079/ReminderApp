@@ -1,0 +1,1 @@
+enum TimeMode { startTime, entTime }
